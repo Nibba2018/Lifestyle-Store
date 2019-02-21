@@ -1,2 +1,2 @@
-# Lifestyle-Store
-A fully functional e-commerce store.
+# nibba2018.github.io
+A sample of my web development skills
